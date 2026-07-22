@@ -164,7 +164,7 @@ Nassau-Shipping-Route-Analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/Nassau-Shipping-Route-Analysis.git
+git clone https:(https://github.com/shivakumar9121/Nassau-Shipping-Route-Analysis)
 cd Nassau-Shipping-Route-Analysis
 ```
 
