@@ -150,12 +150,9 @@ Nassau-Shipping-Route-Analysis/
 │   ├── shipping-heatmap.png             # Interactive US choropleth map showing shipment density and factory locations
 │   ├── ship-mode-boxplot.png            # Box plot visualizing lead time distribution across shipping modes
 │   ├── ship-mode-analysis.png           # Shipping mode comparison with average lead time, delay rate, and cost–time trade-off
-│   ├── route-drilldown.png              # Detailed single-route analysis with shipment timeline and order-level information
+|   ├── route-drilldown.png              # Detailed single-route analysis with shipment timeline and order-level information
 │   └── dataset-explorer.png             # Dataset summary including rows, columns, missing values, duplicates, and statistics
-│
-└── docs/
-    ├── Research_Paper.            # Full EDA, methodology, findings & recommendations
-    └── Executive_Summary.        # Stakeholder-facing summary
+
 ```
 
 ---
